@@ -5,7 +5,7 @@ My name is Harold, a self-taught full-stack web developer living in New York Cit
 During the day I take care of my one year old, by night I like to write code. Clean, elegant and efficient code.
 
 
-
+P.S. Been using HTML and CSS since MySpace. 🤣
 ### Contact Me 📇
 - On Twitter: [@HaroldF415](https://twitter.com/haroldf415)
 - By E-mail: [harold.f415@gmail.com](mailto:harold.f415@gmail.com)
