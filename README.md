@@ -10,3 +10,4 @@ P.S. Been using HTML and CSS since MySpace. 🤣
 - On Twitter: [@HaroldF415](https://twitter.com/haroldf415)
 - By E-mail: [harold.f415@gmail.com](mailto:harold.f415@gmail.com)
 - Through LinkedIn [haroldf415](https://www.linkedin.com/in/haroldf415/)
+![CodeWars](https://www.codewars.com/users/HaroldF415/badges/micro)
